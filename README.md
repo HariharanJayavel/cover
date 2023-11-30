@@ -147,7 +147,8 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![Alt text](output.png)
+![Screenshot (2)](https://github.com/HariharanJayavel/cover/assets/144870546/bcbc56e7-66c9-4ead-83ad-47d1be7bbc17)
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
